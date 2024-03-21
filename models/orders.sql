@@ -1,3 +1,3 @@
 {{ config(materialized='table') }}
 
-SELECT ID FROM DBT_SL.PUBLIC.ORDERS
+SELECT STATUS FROM DBT_SL.PUBLIC.ORDERS
