@@ -1,3 +1,3 @@
 {{ config(materialized='table') }}
 
-SELECT * FROM DBT_SL.PUBLIC.ORDERS
+SELECT ID FROM DBT_SL.PUBLIC.ORDERS
