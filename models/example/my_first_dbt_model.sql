@@ -5,5 +5,5 @@
     This will override configurations stated in dbt_project.yml
 
     Try changing "table" to "view" below
-    Change FROM REMOTE AGAIN
+    Change FROM REMOTE BUT LOCAL NOW
 */
